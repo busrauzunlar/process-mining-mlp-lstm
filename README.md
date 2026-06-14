@@ -6,6 +6,16 @@ The project incorporates both traditional Multi-Layer Perceptrons (MLP) and bidi
 
 ---
 
+## Project Presentation Video
+
+You can watch the project presentation and demonstration video on YouTube:
+
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video_Presentation-red?style=for-the-badge&logo=youtube)](https://youtu.be/lx3oleJOcR8)
+
+Direct Link: [https://youtu.be/lx3oleJOcR8](https://youtu.be/lx3oleJOcR8)
+
+---
+
 ## Dataset Structure and Attributes
 
 The project loads and concatenates process mining logs from two different sources (`data/data1/process_mining.csv` and `data/data2/process_mining.csv`). The dataset contains the following main columns:
